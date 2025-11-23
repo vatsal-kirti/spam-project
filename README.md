@@ -26,4 +26,5 @@ SpamGuard is a Python-based AI tool that detects spam messages. It utilizes Natu
 2.  **Generate Data:**
     `python src/create_dummy_data.py`
 3.  **Run System:**
+
     `python src/main.py`
